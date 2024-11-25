@@ -53,9 +53,9 @@ The recommendation system is built in five major steps:
   - Visualization: Matplotlib
   - Web Framework: Streamlit
 - **Datasets**:
-  - Books Dataset (ISBN, Title, Author, Publisher, etc.)
-  - Ratings Dataset (User IDs, Ratings)
-  - User Dataset (User IDs, Location, Age)
+  - [Books Dataset](https://github.com/Vishal3550/Book_recommender_system/blob/main/Books.csv) (ISBN, Title, Author, Publisher, etc.)
+  - [Ratings Dataset](https://github.com/Vishal3550/Book_recommender_system/blob/main/Ratings.csv) (User IDs, Ratings)
+  - [User Dataset](https://github.com/Vishal3550/Book_recommender_system/blob/main/Users.csv) (User IDs, Location, Age)
 
 ## How It Works
 1. **Popularity-Based Recommendations**:
